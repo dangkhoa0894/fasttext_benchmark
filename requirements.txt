@@ -16,3 +16,4 @@ scipy==1.1.0
 six==1.11.0
 wcwidth==0.1.7
 xlrd==1.1.0
+kompa-nlp 1.0.3
